@@ -1,0 +1,13 @@
+{
+  "accuracy": 0.9995611109160493,
+  "precision": 0.9310344827586207,
+  "recall": 0.72,
+  "f1_score": 0.8120300751879699,
+  "roc_auc": 0.9644783518202753,
+  "threshold": 0.7643161416053772,
+  "test_samples": 56962,
+  "fraud_test_samples": 75,
+  "training_samples": 227836,
+  "imbalance_strategy": "class_weights",
+  "sequence_length": 10
+}

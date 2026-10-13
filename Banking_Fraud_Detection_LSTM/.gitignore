@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.python-packages/
+.env
+.streamlit/secrets.toml
+kaggle.json
+data/*.zip
+data/creditcard.csv
+models/checkpoints/
+*.log

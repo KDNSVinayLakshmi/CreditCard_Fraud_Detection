@@ -1,0 +1,20 @@
+{
+  "class_weights": {
+    "validation": {
+      "f1_score": 0.8444444444444444,
+      "roc_auc": 0.9353214704159344,
+      "threshold": 0.7643161416053772,
+      "epochs_trained": 10
+    },
+    "training_samples": 205052
+  },
+  "smote": {
+    "validation": {
+      "f1_score": 0.8095238095238095,
+      "roc_auc": 0.9551918570591682,
+      "threshold": 0.9999874830245972,
+      "epochs_trained": 10
+    },
+    "training_samples": 225124
+  }
+}
